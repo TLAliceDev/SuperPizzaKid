@@ -1,3 +1,0 @@
-
-bool
-fish_gjk_intersects(fish_shape_header_t* s, fish_shape_header_t* q);

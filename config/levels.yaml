@@ -1,0 +1,42 @@
+---
+levels:
+  level_1:
+    tile_data: levels/level_1.lvl
+    player_x: 8.0
+    player_y: 160.0
+  level_2:
+    tile_data: levels/level_2.lvl
+    player_x: 8.0
+    player_y: 160.0
+  level_3:
+    tile_data: levels/level_3.lvl
+    player_x: 8.0
+    player_y: 208.0
+  level_4:
+    tile_data: levels/level_4.lvl
+    player_x: 8.0
+    player_y: 106.0
+  level_5:
+    tile_data: levels/level_5.lvl
+    player_x: 8.0
+    player_y: 8.0
+  level_6:
+    tile_data: levels/level_6.lvl
+    player_x: 8.0
+    player_y: 160.0
+  level_7:
+    tile_data: levels/level_7.lvl
+    player_x: 16.0
+    player_y: 128.0
+  level_8:
+    tile_data: levels/level_8.lvl
+    player_x: 8.0
+    player_y: 160.0
+  level_9:
+    tile_data: levels/level_9.lvl
+    player_x: 8.0
+    player_y: 106.0
+  level_10:
+    tile_data: levels/level_10.lvl
+    player_x: 8.0
+    player_y: 0.0

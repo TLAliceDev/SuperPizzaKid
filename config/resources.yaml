@@ -1,0 +1,38 @@
+---
+resources:
+  player_texture:
+    type: TEXTURE_ATLAS
+    filepath: "assets/textures/player.png"
+    rect_width: 16
+    rect_height: 16
+  tileset:
+    type: TEXTURE_ATLAS
+    filepath: "assets/textures/tileset.png"
+    rect_width: 16
+    rect_height: 16
+  pine8x8:
+    type: TEXTURE_ATLAS
+    filepath: "assets/textures/pine8x8.png"
+    rect_width: 8
+    rect_height: 8
+  title_screen:
+    type: TEXTURE
+    filepath: "assets/textures/title.png"
+  jump_sfx:
+    type: SOUND
+    filepath: "assets/sfx/jump.wav"
+  step_sfx:
+    type: SOUND
+    filepath: "assets/sfx/step.wav"
+  coin_sfx:
+    type: SOUND
+    filepath: "assets/sfx/coin.wav"
+  die_sfx:
+    type: SOUND
+    filepath: "assets/sfx/die.wav"
+  win_sfx:
+    type: SOUND
+    filepath: "assets/sfx/win.wav"
+  level_music:
+    type: MUSIC
+    filepath: "assets/music/level_music.mp3"

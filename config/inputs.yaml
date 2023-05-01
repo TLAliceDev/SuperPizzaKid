@@ -1,0 +1,11 @@
+---
+inputs:
+  jump: Up
+  left: Left
+  right: Right
+  back_to_menu: Escape
+  tiles_palette: Tab
+  save_level: Return
+  load_level: Space
+  backspace: Backspace
+  level_editor: E
